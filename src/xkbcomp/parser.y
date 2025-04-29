@@ -4,9 +4,7 @@
  */
 
 /*
- * The parser should work with reasonably recent versions of either
- * bison or byacc.  So if you make changes, try to make sure it works
- * in both!
+ * The parser should work with reasonably recent versions of bison.
  */
 
 /* The following goes in the header */
